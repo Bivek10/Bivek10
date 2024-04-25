@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivek10&label=Profile%20views&color=0e75b6&style=flat" alt="bivek10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bivek10" alt="bivek10" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@bibekkarki662](https://medium.com/@bibekkarki662)
 
 - 💬 Ask me about **Dart,JavaScript,Python,SQL,**
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bivek10&show_icons=true&locale=en" alt="bivek10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bivek10&" alt="bivek10" /></p>
-
